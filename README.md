@@ -2,7 +2,7 @@
 치매 초기 노인들을 대상으로 만든 인지능력 게임.
 상황에 맞는 정답을 고름으로서 인지능력을 측정할 수 있음.
 
-#Tools
+# Tools
 Unity, SpringFramework, Mysql, AWS, GPT 3.5 Turbo
 
 
