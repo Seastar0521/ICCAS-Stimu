@@ -4,7 +4,9 @@
 
 # Tools
 Frontend: Unity
+
 Backend: SpringFramework, Mysql
+
 Infra: AWS
 AI: GPT 3.5 Turbo
 
